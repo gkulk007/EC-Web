@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
 
 .img-thumbnail {
   padding: .25rem;
@@ -32,14 +32,14 @@
 }
 
 .on-carousel{
-  position :absolute;
+  position: absolute;
   margin-top: 20%;
   margin-left: 30%;
-  z-index : 2;
+  z-index: 2;
   font-size: 8vw;
   color: white;
   text-align: center;
   font-family:'Tangerine';
-  align-items: center
+  align-items: center;
 
 }
