@@ -22,16 +22,15 @@
   font-size: 0.9rem;
 }
 
-.About{
+.About {
   position: relative;
   font-size: 2.5em;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 1em, 1em, 1em, 1em;
   padding: .25rem;
-
 }
 
-.on-carousel{
+.on-carousel {
   position: absolute;
   margin-top: 12%;
   margin-left: 29%;
@@ -39,7 +38,10 @@
   font-size: 12vw;
   color: white;
   text-align: center;
-  font-family:'Tangerine';
+  font-family: 'Tangerine';
   align-items: center;
+}
 
+i.fa.fa-heart {
+  color: #dc0e0e;
 }
